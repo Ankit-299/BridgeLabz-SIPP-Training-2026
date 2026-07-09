@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 // Write a program to input the Principal, Rate, and Time values and calculate Simple Interest.
 // Hint =&gt;
 // a. Simple Interest = Principal * Rate * Time / 100
